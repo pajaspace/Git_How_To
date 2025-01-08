@@ -3,9 +3,7 @@
 Hi This is GIT about Git 
 Here are the basic instruction HOW TO uppload , etc...
 
-Tady je základní **How-To Guide** pro práci s Git, napsaný v **Markdown** formátu. Tento text můžete použít ve svém projektu nebo repozitáři jako základní přehled práce s Git.
 
-```markdown
 # Git Basics: How-To Guide
 
 This guide provides essential Git commands and workflows to help you manage your projects efficiently.
