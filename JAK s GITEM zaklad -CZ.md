@@ -20,7 +20,7 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.<br><br>
 ```This is the [link](https://www.example.com/my%20great%20page) ```<br>
 [link](https://www.example.com/my%20great%20page) <br>
 
-To cele vyse v kodu 
+Jeste jednou pro shrnuti v kodu
 ```bash
 I love supporting the **[EFF](https://eff.org)**.<br>
 This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
@@ -29,7 +29,7 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
 
 
 
-
+## Co me nefunguje ... jsou odkazky na jednotlive sekce v dokumentu , priklady nize <br><br> 
 
 ## Nefunguje 
 [Pocatecni Nastaveni](#1. Počáteční nastavení)<br>
@@ -41,7 +41,7 @@ See the section on [`code`](#code).<br>
 **[Celkovy navod zde na linku](https://www.markdownguide.org/cheat-sheet/)**
 
 
-
+### JAK S GITEM PRIKAZY atd .. ###
 
 ##1. Počáteční nastavení
 
