@@ -3,15 +3,22 @@
 
 Tento návod obsahuje základní příkazy a pracovní postupy v Gitu
 
-Obsah:
+Obsah:<br>
+**Uvod 1**<br>
+Jak s hyperlinkama <br>
+**[JAK S HYPERLINKAMA A EDITACE V MARKDOWN]((https://www.markdownguide.org/cheat-sheet/)**
 
 [Pocatecni Nastaveni](#1. Počáteční nastavení)
 [Text odkazu](#nazev-sekce)
+
+Zkousky<br>
 
 I love supporting the **[EFF](https://eff.org)**.<br>
 This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
 See the section on [`code`](#code).<br>
 [#1. Počáteční nastavení](##1.).<br>
+[##2.Nove repo](##2.).<br>
+[link](https://www.example.com/my%20great%20page)
 
 
 
