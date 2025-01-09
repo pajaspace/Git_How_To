@@ -4,6 +4,10 @@
 Tento návod obsahuje základní příkazy a pracovní postupy v Gitu
 
 Obsah:<br>
+- uvod a pred uvodem jak formatovat a atd
+- Jak stahnout z GIT *[Jak stanhout z GITU](https://github.com/pajaspace/Git_How_To/blob/main/Jak_stahnu_z_GITU%20-%20CZ.md)
+- nize jsou jednotlive prikazy rozebrane trochu
+
 **Uvod 1**<br>
 Spis jeste uplne pred uvodem.<br>
 Chtel jsem si na napsat vubec navod ja to funguje atd ...<br>
