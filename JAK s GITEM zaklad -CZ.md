@@ -3,9 +3,19 @@
 
 Tento návod obsahuje základní příkazy a pracovní postupy v Gitu
 
----
+Obsah:
 
-## 1. Počáteční nastavení
+[Pocatecni Nastaveni](#1. Počáteční nastavení)
+[Text odkazu](#nazev-sekce)
+
+I love supporting the **[EFF](https://eff.org)**.<br>
+This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
+See the section on [`code`](#code).<br>
+[`#1. Počáteční nastavení`](#1.).<br>
+
+
+
+#1. Počáteční nastavení
 
 Před použitím Gitu je potřeba nastavit vaše uživatelské jméno a e-mail:
 
