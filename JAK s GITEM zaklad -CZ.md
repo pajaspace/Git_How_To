@@ -5,24 +5,45 @@ Tento návod obsahuje základní příkazy a pracovní postupy v Gitu
 
 Obsah:<br>
 **Uvod 1**<br>
-Jak s hyperlinkama <br>
-**[JAK S HYPERLINKAMA A EDITACE V MARKDOWN]((https://www.markdownguide.org/cheat-sheet/)**
 
-[Pocatecni Nastaveni](#1. Počáteční nastavení)
-[Text odkazu](#nazev-sekce)
+Chtel jsem si na napsat vubec navod ja to funguje atd ...<br>
+Nicmene napred je strasne dulezite formatovani textu jako takoveho <br>
+Abychom vubec vedeli jak udelat hyperlink a velky text atd ... <br>
 
-Zkousky<br>
+**##Moje zkousky Zkousky##<br>**
 
+## Funguje
+ ```I love supporting the **[EFF](https://eff.org)**.```<br>
+I love supporting the **[EFF](https://eff.org)**.<br> <br> 
+```This is the *[Markdown Guide](https://www.markdownguide.org)*```<br>
+This is the *[Markdown Guide](https://www.markdownguide.org)*.<br><br> 
+```This is the [link](https://www.example.com/my%20great%20page) ```<br>
+[link](https://www.example.com/my%20great%20page) <br>
+
+To cele vyse v kodu 
+```bash
 I love supporting the **[EFF](https://eff.org)**.<br>
 This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
-See the section on [`code`](#code).<br>
+[link](https://www.example.com/my%20great%20page) <br>
+```
+
+
+
+
+
+## Nefunguje 
+[Pocatecni Nastaveni](#1. Počáteční nastavení)<br>
+[Text odkazu](#nazev-sekce)<br>
 [#1. Počáteční nastavení](##1.).<br>
 [##2.Nove repo](##2.).<br>
-[link](https://www.example.com/my%20great%20page)
+See the section on [`code`](#code).<br>
+
+**[Celkovy navod zde na linku](https://www.markdownguide.org/cheat-sheet/)**
 
 
 
-#1. Počáteční nastavení
+
+##1. Počáteční nastavení
 
 Před použitím Gitu je potřeba nastavit vaše uživatelské jméno a e-mail:
 
