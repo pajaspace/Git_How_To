@@ -11,7 +11,7 @@ Obsah:
 I love supporting the **[EFF](https://eff.org)**.<br>
 This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
 See the section on [`code`](#code).<br>
-[`#1. Počáteční nastavení`](#1.).<br>
+[#1. Počáteční nastavení](##1.).<br>
 
 
 
