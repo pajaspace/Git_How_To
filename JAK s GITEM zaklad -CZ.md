@@ -5,7 +5,7 @@ Tento návod obsahuje základní příkazy a pracovní postupy v Gitu
 
 Obsah:<br>
 **Uvod 1**<br>
-
+Spis jeste uplne pred uvodem.<br>
 Chtel jsem si na napsat vubec navod ja to funguje atd ...<br>
 Nicmene napred je strasne dulezite formatovani textu jako takoveho <br>
 Abychom vubec vedeli jak udelat hyperlink a velky text atd ... <br>
@@ -26,19 +26,27 @@ I love supporting the **[EFF](https://eff.org)**.<br>
 This is the *[Markdown Guide](https://www.markdownguide.org)*.<br>
 [link](https://www.example.com/my%20great%20page) <br>
 ```
+**[Celkovy navod zde na linku Markdownguide](https://www.markdownguide.org/cheat-sheet/)**
 
 
-
-## Co me nefunguje ... jsou odkazky na jednotlive sekce v dokumentu , priklady nize <br><br> 
+# Co me nefunguje ... jsou odkazky na jednotlive sekce v dokumentu , priklady nize # <br><br> 
 
 ## Nefunguje 
-[Pocatecni Nastaveni](#1. Počáteční nastavení)<br>
+```[Pocatecni Nastaveni](#1. Počáteční nastavení)```<br>
+[Pocatecni Nastaveni](#1. Počáteční nastavení)<br><br>
+```[Text odkazu](#nazev-sekce)```<br>
 [Text odkazu](#nazev-sekce)<br>
+
+```[#1. Počáteční nastavení](##1.).```<br>
 [#1. Počáteční nastavení](##1.).<br>
+
+```[##2.Nove repo](##2.).```<br>
 [##2.Nove repo](##2.).<br>
+
+```See the section on [`code`](#code).```<br>
 See the section on [`code`](#code).<br>
 
-**[Celkovy navod zde na linku](https://www.markdownguide.org/cheat-sheet/)**
+
 
 
 ### JAK S GITEM PRIKAZY atd .. ###
